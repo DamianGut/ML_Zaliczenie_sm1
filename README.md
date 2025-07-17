@@ -1,7 +1,7 @@
 # ML
  
 
-# mateuszr
+# mateuszr https://github.com/mateuszr/ml-course-1
 
 
 Zasady zaliczenia <br>
