@@ -1,29 +1,17 @@
-# SAD
-Statystyczna analiza danych
+# ML
+ 
 
-# https://kflisikowsky.github.io/sad/
+# mateuszr
 
 
-Analiza danych
-
-Zestawy danych dla przedmiotu ANALIZA DANYCH projekt zespołowy 2024/2025.
-
-Jak korzystać z danych w projekcie?
-
-Dla każdego zestawu danych opracowano krótki opis. W pierwszym tygodniu skontaktuj się z prowadzącym, aby wybrać główne zmienne, cel badania.
-
-Kryteria oceny projektu
-
-0-2 punkty: praca zespołowa (uwaga: 0 punktów za wielokrotne kasowanie postępów prac, branchy, repo)
-
-0-3 punkty: estetyka projektu, opracowanie dokumentu technicznego Markdown, komentarze, wnioski.
-
-0-3 punkty: porządkowanie, czyszczenie danych
-
-0-4 punkty: wizualizacja danych
-
-0-4 punkty: analiza opisowa
-
-0-4 punkty: wnioskowanie statystyczne
-
-Razem: 20 punktów. Aby zaliczyć projekt, należy zdobyć minimum 10 punktów.
+Zasady zaliczenia
+• Zaliczeniem będzie projekt robiony w grupie 3-4 osobowej (max 5).
+• Projekt polega na zastosowaniu regresji liniowej lub klasyfikacji (regresji logistycznej) na wybranym zbiorze danych
+• Zaproponuje 2 zbiory danych do wyboru: jeden na klasyfikacje, drugi na regresje
+• Każdy może tez przyjść ze swoim zbiorem danych (wtedy zalecam konsultacje ze mną, żeby określić zakres)
+• Rezultatem projektu powinien być notebook (collab), który może zawierać elementy omawiane na wykładzie:
+• Wczytanie danych, może jakaś wizualizacja zbioru
+• Zastosowanie algorytmu uczenia maszynowego
+• Ewaluacja: stworzenie macierzy błędów/metryk modelu/współczynnik R2 regresji itd.
+• Zachęcam do wzorowania się na notebookach prezentowanych na wykładzie
+• Projekt (notebook) najlepiej wysłać mi mejlem
